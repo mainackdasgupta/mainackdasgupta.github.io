@@ -370,7 +370,7 @@ section .title::after{
     width: 50%;
 }
 .skills-content .right .js::before{
-    width: 80%;
+    width: 700%;
 }
 .skills-content .right .php::before{
     width: 70%;
